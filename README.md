@@ -1,4 +1,4 @@
-# laravel-promocodes
+# morph-sa/laramorph-coupon
 
 [![Packagist](https://img.shields.io/packagist/v/zgabievi/promocodes.svg)](https://packagist.org/packages/zgabievi/promocodes)
 [![Packagist](https://img.shields.io/packagist/dt/zgabievi/promocodes.svg)](https://packagist.org/packages/zgabievi/promocodes)
@@ -18,7 +18,7 @@ should take you several minutes to completely rewrite usage.
 You can install the package via composer:
 
 ```bash
-composer require zgabievi/laravel-promocodes
+composer require morph-sa/laramorph-coupon
 ```
 
 ## Configuration
