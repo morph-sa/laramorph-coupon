@@ -18,7 +18,7 @@ should take you several minutes to completely rewrite usage.
 You can install the package via composer:
 
 ```bash
-composer require zgabievi/laravel-promocodes
+composer require morph-sa/laramorph-coupon
 ```
 
 ## Configuration
