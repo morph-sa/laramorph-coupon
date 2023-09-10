@@ -1,4 +1,4 @@
-# morph-sa/laramorph-coupon
+# laramorph-coupon
 
 [![laravel-promocodes](https://banners.beyondco.de/laramorph-coupon.jpeg??theme=light&packageManager=composer+require&packageName=morph-sa%2Flaramorph-coupon&pattern=topography&style=style_2&description=Coupons+and+promotional+codes+generator.&md=1&showWatermark=0&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg)](https://github.com/morph-sa/laramorph-coupon)
 
