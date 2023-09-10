@@ -4,6 +4,10 @@
 [![Packagist](https://img.shields.io/packagist/dt/zgabievi/promocodes.svg)](https://packagist.org/packages/zgabievi/promocodes)
 [![license](https://img.shields.io/github/license/zgabievi/promocodes.svg)](https://packagist.org/packages/zgabievi/promocodes)
 
+> **Attention: Important Note**
+> This package is forked from [zgabievi/laravel-promocodes](https://github.com/zgabievi/laravel-promocodes) and is not maintained by the original author anymore, but by [Morph SA](https://github.com/morph-sa).
+> You Can Replace the original package with this one by changing the package name in your composer.json file.
+
 Coupons and promotional codes generator for [Laravel](https://laravel.com). Current release is only
 for [Laravel 9.x](https://laravel.com/docs/9.x) and [PHP 8.1](https://www.php.net/releases/8.1/en.php). It's completely
 rewritten, and if you are using previous version, you should change your code accordingly. Code is simplified now and it
