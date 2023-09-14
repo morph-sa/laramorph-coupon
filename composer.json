@@ -1,5 +1,5 @@
 {
-    "name": "zgabievi/laravel-promocodes",
+    "name": "morph-sa/laramorph-coupon",
     "description": ":package_description",
     "license": "MIT",
     "authors": [
@@ -9,7 +9,7 @@
             "homepage": "https://github.com/zgabievi"
         }
     ],
-    "homepage": "https://github.com/zgabievi/laravel-promocodes",
+    "homepage": "https://github.com/morph-sa/laramorph-coupon",
     "keywords": [
         "Laravel",
         "Promocodes"
